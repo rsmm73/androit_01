@@ -7,5 +7,15 @@
     <string name="previous">Previous</string>
 
     <string name="label_login">Identificacion de usuario</string>
+    <string name="label_username">Username</string>
+
+    <string name="label_password">Password</string>
+
+    <string name="action_validate">Validar</string>
+
+    <string name="mensaje_login_ok">Correcto</string>
+    <string name="mensaje_login_false">Falso</string>
+
+
 
 </resources>
